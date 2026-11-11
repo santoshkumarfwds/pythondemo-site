@@ -1,0 +1,54 @@
+{
+  "site": {
+    "name": "Bright",
+    "accent": "CMS",
+    "nav": [
+      { "id": "home", "label": "Home" },
+      { "id": "about", "label": "About" },
+      { "id": "why-us", "label": "Why Us" },
+      { "id": "stats", "label": "Statistics" },
+      { "id": "testimonials", "label": "Testimonials" }
+    ]
+  },
+  "banners": [
+    { "title": "Build Stunning Websites Without Code", "text": "A powerful, flexible CMS that puts you in full control of your content.", "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1600" },
+    { "title": "Manage Content From Anywhere", "text": "Edit pages, publish posts and collaborate with your team in real time.", "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1600" },
+    { "title": "Fast, Secure & SEO Ready", "text": "Lightning-fast pages, enterprise-grade security and built-in SEO tools.", "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600" }
+  ],
+  "about": {
+    "title": "We Make Content Management Effortless",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=900",
+    "years": "10+",
+    "paragraphs": [
+      "BrightCMS was founded with one goal: to give businesses of every size a simple yet powerful way to create and manage their online presence.",
+      "Our platform combines an intuitive drag-and-drop editor with developer-friendly APIs, so marketers and engineers can work together seamlessly."
+    ],
+    "points": ["Drag & drop page builder", "Headless API support", "Multi-language content", "24/7 expert support"]
+  },
+  "features": [
+    { "icon": "⚡", "title": "Lightning Fast", "text": "Optimized hosting and caching deliver pages in milliseconds." },
+    { "icon": "🔒", "title": "Secure by Default", "text": "SSL, role-based access and daily backups keep your data safe." },
+    { "icon": "🎨", "title": "Beautiful Themes", "text": "Choose from dozens of responsive, customizable templates." },
+    { "icon": "📈", "title": "SEO Optimized", "text": "Built-in tools help your content rank higher on search engines." },
+    { "icon": "🔌", "title": "Easy Integrations", "text": "Connect CRM, analytics and marketing tools in one click." },
+    { "icon": "🤝", "title": "Dedicated Support", "text": "Our experts are available around the clock to help you." }
+  ],
+  "stats": [
+    { "label": "Happy Clients", "value": 2500, "suffix": "+" },
+    { "label": "Websites Built", "value": 4800, "suffix": "+" },
+    { "label": "Countries Served", "value": 45, "suffix": "" },
+    { "label": "Uptime", "value": 99, "suffix": ".9%" }
+  ],
+  "testimonials": [
+    { "name": "Sarah Johnson", "role": "Marketing Director, Nova Inc.", "quote": "BrightCMS transformed how our team publishes content. We launched our new site in just two weeks!", "avatar": "https://i.pravatar.cc/150?img=47" },
+    { "name": "Rahul Mehta", "role": "Founder, TravelNest", "quote": "The editor is so intuitive that our non-technical staff update the website every day without any help.", "avatar": "https://i.pravatar.cc/150?img=12" },
+    { "name": "Emily Chen", "role": "CTO, Brightline Labs", "quote": "Clean APIs, great performance and outstanding support. It is the best CMS decision we have made.", "avatar": "https://i.pravatar.cc/150?img=32" }
+  ],
+  "footer": {
+    "about": "The modern content management platform for businesses that want to grow online.",
+    "services": ["Website Builder", "Headless CMS", "E-commerce", "SEO Tools"],
+    "address": "123 Business Ave, Mumbai",
+    "phone": "+91 98765 43210",
+    "email": "hello@brightcms.com"
+  }
+}
